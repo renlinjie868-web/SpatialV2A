@@ -6,10 +6,7 @@
 [![Webpage](https://img.shields.io/badge/Webpage-Coming%20Soon-purple.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-<div align="center">
-  <p><strong>Authors</strong>: Yanan Wang, Linjie Ren, Zihao Li, Junyi Wang, Tian Gan</p>
-  <p>School of Computer Science and Technology, Shandong University</p>
-</div>
+> **Authors**: Yanan Wang, Linjie Ren, Zihao Li, Junyi Wang, Tian Gan (School of Computer Science and Technology, Shandong University)
 
 ---
 
