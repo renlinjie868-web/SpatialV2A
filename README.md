@@ -35,11 +35,11 @@ Below are representative video demos (the audio in the videos is the high-fideli
 
 | Demo Name | Video Link | Description |
 |-----------|------------|-------------|
-| Demo 1 | [1MgcrYdYas0_000030.mp4](assert/1MgcrYdYas0_000030.mp4) | Spatial audio generation for real-world scene |
-| Demo 2 | [8sd513xQzV4_000030.mp4](assert/8sd513xQzV4_000030.mp4) | Binaural audio effect comparison |
-| Demo 3 | [9ge5GwYO-pU_000016.mp4](assert/9ge5GwYO-pU_000016.mp4) | Spatial alignment with visual motion |
+| Demo 1 | [1MgcrYdYas0_000030.mp4](assert/1MgcrYdYas0_000030.mp4) | chainsawing tree |
+| Demo 2 | [8sd513xQzV4_000030.mp4](assert/8sd513xQzV4_000030.mp4) | waves crashing on a beach |
+| Demo 3 | [9ge5GwYO-pU_000016.mp4](assert/9ge5GwYO-pU_000016.mp4) | rope skipping |
 
-> Note: All demo videos are from the test set of BinauralVGGSound dataset, with no manual modification to the audio.
+> Note: All demo videos are from the test set of BinauralVGGSound dataset.
 
 ---
 
