@@ -44,12 +44,9 @@ Below are representative video demos (the audio in the videos is the high-fideli
 ---
 
 ## 📋 Todo List
-- [ ] Release full source code of SpatialV2A framework
-- [ ] Open access to BinauralVGGSound dataset (187k video-binaural audio pairs)
-- [ ] Release pre-trained model checkpoints
-- [ ] Update official webpage with detailed technical documentation
-- [ ] Add more diverse demo videos and audio samples
-- [ ] Provide inference code and user guide for quick deployment
+- [ ] Release SpatialV2A framework code
+- [ ] Open access to BinauralVGGSound dataset
+- [ ] Publish pre-trained model checkpoints
 
 ---
 
