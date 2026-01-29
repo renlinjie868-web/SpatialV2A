@@ -1,6 +1,6 @@
 # SpatialV2A: Visual-Guided High-fidelity Spatial Audio Generation
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv%3A2601.15017-brightgreen.svg)](https://arxiv.org/pdf/2601.15017)
+[![Paper](https://img.shields.io/badge/Paper-arXiv%3A2601.15017-brightgreen.svg)](https://arxiv.org/abs/2601.15017)
 [![Dataset](https://img.shields.io/badge/Dataset-Coming%20Soon-blue.svg)]()
 [![Webpage](https://img.shields.io/badge/Webpage-Coming%20Soon-purple.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
