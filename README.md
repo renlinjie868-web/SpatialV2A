@@ -20,11 +20,11 @@ Experiments show that our approach substantially outperforms state-of-the-art mo
 
 ## 🔧 Core Pipelines
 ### 1. Dataset Construction Pipeline
-![Dataset Construction Pipeline](assert/dataset_construction_pipeline.png)
+![Dataset Construction Pipeline](asserts/dataset_construction_pipeline.png)
 *Figure: Pipeline for constructing the large-scale BinauralVGGSound dataset*
 
 ### 2. SpatialV2A Framework Pipeline
-![SpatialV2A Framework Pipeline](assert/SpatialV2A_pipeline.png)
+![SpatialV2A Framework Pipeline](asserts/SpatialV2A_pipeline.png)
 *Figure: End-to-end visual-guided spatial audio generation pipeline of SpatialV2A*
 
 ---
