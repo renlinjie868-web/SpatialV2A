@@ -25,6 +25,25 @@ While video-to-audio generation has achieved remarkable progress in semantic and
 
 ---
 
+## 🎧 Demo Showcase
+
+> 🔊 **Want to hear the spatial difference?**  
+> Experience the comparison between mono audio generation and our visual-guided spatial audio synthesis on our interactive demo page.
+
+<div align="center">
+
+### 👉 [🚀 Visit the Web Demo for Audio Comparison](https://renlinjie868-web.github.io/SpatialV2A-webpage/)
+
+</div>
+
+**What you can explore in the demo:**
+- 🎥 Video-to-audio generation results
+- 🎧 Mono vs. Spatial audio comparison
+- 🌍 Layered spatial depth perception
+- 🔁 Side-by-side qualitative evaluation
+
+---
+
 ## 📋 Todo List
 - [ ] Release SpatialV2A framework code
 - [ ] Open access to BinauralVGGSound dataset
